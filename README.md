@@ -20,42 +20,22 @@ Me interesan especialmente el análisis defensivo, la validación técnica autor
 
 ## 🚀 Proyectos destacados
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### ⏱️ [X-Time — Gestión de asistencia y control biométrico](https://github.com/xavierbrunori/X-Time-Portfolio)
 
-### ⏱️ [X-Time](https://github.com/xavierbrunori/X-Time-Portfolio)
+Plataforma SaaS para empresas con múltiples sucursales: asistencia, horarios, presentismo, permisos e integración con lectores biométricos a través de un agente local.
 
-**Plataforma SaaS de control de asistencia y presentismo.**
+**Tecnologías:** React · TypeScript · FastAPI · SQLAlchemy · PostgreSQL (arquitectura prevista).
 
-- Empresas, sucursales, horarios y empleados.
-- Roles y controles de acceso.
-- Integración con dispositivos biométricos mediante agente local.
-- Panel de gestión y reportes.
+[**Explorar portfolio de X-Time →**](https://github.com/xavierbrunori/X-Time-Portfolio)
 
-**Stack:** React · TypeScript · FastAPI · SQLAlchemy · PostgreSQL (arquitectura prevista)
+### 🛡️ [X-Sentinel AI — Plataforma de ciberseguridad](https://github.com/xavierbrunori/X-Sentinel-AI-Portfolio)
 
-[**Ver presentación pública →**](https://github.com/xavierbrunori/X-Time-Portfolio)
+Aplicación de escritorio enfocada en observación defensiva, comprobaciones autorizadas y correlación de evidencias Blue Team, Red Team y Purple Team.
 
-</td>
-<td width="50%" valign="top">
+**Tecnologías:** Python · PySide6 · herramientas de análisis de red.
 
-### 🛡️ [X-Sentinel AI](https://github.com/xavierbrunori/X-Sentinel-AI-Portfolio)
+[**Explorar portfolio de X-Sentinel AI →**](https://github.com/xavierbrunori/X-Sentinel-AI-Portfolio)
 
-**Aplicación de escritorio orientada a ciberseguridad.**
-
-- Observación defensiva (Blue Team).
-- Comprobaciones controladas (Red Team).
-- Correlación de evidencia (Purple Team).
-- Informes, registro y análisis técnico.
-
-**Stack:** Python · PySide6 · herramientas de análisis de red
-
-[**Ver presentación pública →**](https://github.com/xavierbrunori/X-Sentinel-AI-Portfolio)
-
-</td>
-</tr>
-</table>
 
 ### 📈 [X-Trader](https://github.com/xavierbrunori/X-Trader-Portfolio)
 
