@@ -1,16 +1,92 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**xavierbrunori/xavierbrunori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola! Soy Xavier Brunori 👋
 
-Here are some ideas to get you started:
+### Estudiante avanzado de Seguridad Informática · Desarrollo de software · Argentina 🇦🇷
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Me interesa construir soluciones reales, combinar desarrollo con seguridad y aprender a través de proyectos propios.**
+
+[![GitHub](https://img.shields.io/badge/GitHub-xavierbrunori-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xavierbrunori)
+
+</div>
+
+---
+
+## 👨‍💻 Sobre mí
+
+Soy estudiante avanzado de la **Licenciatura en Seguridad Informática en la Universidad Siglo 21**. Trabajo en proyectos que combinan programación, arquitectura de software, integración de sistemas y buenas prácticas de ciberseguridad.
+
+Me interesan especialmente el análisis defensivo, la validación técnica autorizada, la automatización, la protección de información y la construcción de productos que resuelvan necesidades concretas.
+
+## 🚀 Proyectos destacados
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⏱️ [X-Time](https://github.com/xavierbrunori/X-Time-Portfolio)
+
+**Plataforma SaaS de control de asistencia y presentismo.**
+
+- Empresas, sucursales, horarios y empleados.
+- Roles y controles de acceso.
+- Integración con dispositivos biométricos mediante agente local.
+- Panel de gestión y reportes.
+
+**Stack:** React · TypeScript · FastAPI · SQLAlchemy · PostgreSQL (arquitectura prevista)
+
+[**Ver presentación pública →**](https://github.com/xavierbrunori/X-Time-Portfolio)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ [X-Sentinel AI](https://github.com/xavierbrunori/X-Sentinel-AI-Portfolio)
+
+**Aplicación de escritorio orientada a ciberseguridad.**
+
+- Observación defensiva (Blue Team).
+- Comprobaciones controladas (Red Team).
+- Correlación de evidencia (Purple Team).
+- Informes, registro y análisis técnico.
+
+**Stack:** Python · PySide6 · herramientas de análisis de red
+
+[**Ver presentación pública →**](https://github.com/xavierbrunori/X-Sentinel-AI-Portfolio)
+
+</td>
+</tr>
+</table>
+
+### 📈 [X-Trader](https://github.com/xavierbrunori/X-Trader-Portfolio)
+
+Proyecto personal en desarrollo. Su presentación pública se ampliará a medida que existan funcionalidades verificadas y material de demostración.
+
+[**Ver estado del proyecto →**](https://github.com/xavierbrunori/X-Trader-Portfolio)
+
+## 🧰 Tecnologías que utilizo en mis proyectos
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+</p>
+
+**Áreas de interés:** seguridad de redes · Blue Team · Red Team autorizado · correlación Purple Team · automatización · desarrollo full stack · aplicaciones de escritorio.
+
+## 🔐 Sobre los repositorios
+
+Los enlaces anteriores llevan a **portfolios públicos** que muestran el propósito, las tecnologías y la arquitectura general de cada proyecto.
+
+Los repositorios de desarrollo de los productos se mantienen **privados** para proteger el código fuente y la información interna. Cada presentación aclara el estado real del proyecto y evita atribuir características no verificadas.
+
+---
+
+<div align="center">
+
+*Aprender, construir, probar y mejorar.*
+
+</div>
