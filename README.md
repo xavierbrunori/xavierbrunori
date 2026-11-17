@@ -2,10 +2,11 @@
 
 # ¡Hola! Soy Xavier Brunori 👋
 
-### Estudiante avanzado de Seguridad Informática · Desarrollo de software · Argentina 🇦🇷
+### Seguridad Informática · Python · Desarrollo de software · Argentina 🇦🇷
 
 **Me interesa construir soluciones reales, combinar desarrollo con seguridad y aprender a través de proyectos propios.**
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Xavier_Brunori-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xavier-brunori-30b0b5272/)
 [![GitHub](https://img.shields.io/badge/GitHub-xavierbrunori-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xavierbrunori)
 
 </div>
@@ -17,6 +18,8 @@
 Soy estudiante avanzado de la **Licenciatura en Seguridad Informática en la Universidad Siglo 21**. Trabajo en proyectos que combinan programación, arquitectura de software, integración de sistemas y buenas prácticas de ciberseguridad.
 
 Me interesan especialmente el análisis defensivo, la validación técnica autorizada, la automatización, la protección de información y la construcción de productos que resuelvan necesidades concretas.
+
+**Objetivo profesional:** desarrollarme como **Analista de Seguridad Informática Jr.**, combinando conocimientos técnicos de redes, defensa y desarrollo de herramientas.
 
 ## 🚀 Proyectos destacados
 
@@ -35,7 +38,6 @@ Aplicación de escritorio enfocada en observación defensiva, comprobaciones aut
 **Tecnologías:** Python · PySide6 · herramientas de análisis de red.
 
 [**Explorar portfolio de X-Sentinel AI →**](https://github.com/xavierbrunori/X-Sentinel-AI-Portfolio)
-
 
 ### 📈 [X-Trader](https://github.com/xavierbrunori/X-Trader-Portfolio)
 
@@ -56,6 +58,11 @@ Proyecto personal en desarrollo. Su presentación pública se ampliará a medida
 </p>
 
 **Áreas de interés:** seguridad de redes · Blue Team · Red Team autorizado · correlación Purple Team · automatización · desarrollo full stack · aplicaciones de escritorio.
+
+## 📫 Contacto profesional
+
+- **LinkedIn:** [Xavier Brunori](https://www.linkedin.com/in/xavier-brunori-30b0b5272/)
+- **GitHub:** [@xavierbrunori](https://github.com/xavierbrunori)
 
 ## 🔐 Sobre los repositorios
 
